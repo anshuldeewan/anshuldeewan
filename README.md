@@ -61,30 +61,38 @@
 
 ---
 
-### 📊 GitHub Telemetry & Stats
+### 🏆 Certifications & Specializations
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=anshuldeewan&show_icons=true&theme=dark&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&border_color=06b6d433&count_private=true" alt="Anshul's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldeewan&layout=compact&theme=dark&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&border_color=06b6d433&hide=html,css" alt="Top Languages" />
+
+| Certificate Suite | Issuer | Completed Modules / Focus | Verification Link |
+| :--- | :--- | :--- | :--- |
+| 🤖 **Anthropic AI Specialization (12+ Modules)** | Anthropic | `Claude 101` · `Claude Code` · `Claude Platform` · `Claude API` · `Claude Cowork` · `Model Context Protocol (MCP)` · `AI Agents` · `Subagents` · `Agent Skills` · `Google Vertex AI` · `Amazon Bedrock` · `AI Fluency` | [📜 Verify Repo](https://github.com/anshuldeewan/Anthropic_Cerificates) |
+| 📊 **Quantitative Analytics & Futures Trading** | Axxela Research | Commodity Spread Trading · Butterfly (D-Fly) Strategies · Z-Score & Beta Regression · Algorithmic Order Monitoring | [💼 Internship Proof](https://anshul-deewan.vercel.app/#education) |
+| 💻 **Full-Stack Engineering & GenAI SDLC** | Aletheions | React.js · Tailwind CSS · REST API Integration · GenAI Prompt Engineering & Development Acceleration | [🌐 Live Site](https://anshul-deewan.vercel.app/#projects) |
+
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldeewan&theme=dark&background=0b0f19&stroke=06b6d4&ring=8b5cf6&fire=ec4899&currStreakNum=06b6d4" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_AI-Claude_Code-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Anthropic_AI-Model_Context_Protocol_(MCP)-06B6D4?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Anthropic_AI-Autonomous_Agents-EC4899?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Google_Vertex_AI-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex AI" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake  
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshuldeewan/anshuldeewan/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshuldeewan/anshuldeewan/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/anshuldeewan/anshuldeewan/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
   </picture>
-</p>
 
 ---
 
