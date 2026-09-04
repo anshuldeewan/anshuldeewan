@@ -34,6 +34,18 @@
 
 ---
 
+### 🚀 Latest Builds
+
+| Build | What makes it interesting | Links |
+| :--- | :--- | :--- |
+| **SyncForge** | Real-time collaborative engineering workspace with local-first editing, CRDT persistence, RBAC, and AI knowledge retrieval. | [Source](https://github.com/anshuldeewan/SyncForge) |
+| **ThesisOS** | Human-in-the-loop multi-agent financial research system for debate-driven analysis and executive memo generation. | [Live Demo](https://thesis-os-ochre.vercel.app) · [Source](https://github.com/anshuldeewan/ThesisOS) |
+| **DocuMind Advanced RAG** | Multimodal document intelligence for PDFs, spreadsheets, images, and code with a Dockerized FastAPI + ChromaDB backend. | [Live Demo](https://docu-mind-advanced-rag.vercel.app) · [Source](https://github.com/anshuldeewan/DocuMind-Advanced-RAG) |
+| **LE Spread Analyzer** | CME Live Cattle calendar-spread research with dynamic hedge ratios, cointegration, mean reversion, and backtesting. | [Source](https://github.com/anshuldeewan/LE-Spread-Analyzer) |
+| **anshul-quantfin** | Python package for mathematical finance, stochastic modeling, and derivatives pricing engines. | [PyPI](https://pypi.org/project/anshul-quantfin/) · [Source](https://github.com/anshuldeewan/anshul-quantfin) |
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
@@ -88,17 +100,6 @@
   <img src="https://img.shields.io/badge/Google_Vertex_AI-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex AI" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
 </p>
-
----
-
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
-  </picture>
 
 ---
 
