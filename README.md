@@ -22,6 +22,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-latest-builds">Latest Builds</a> ·
+  <a href="#-featured-projects">Featured Projects</a> ·
+  <a href="#-certifications--specializations">Certifications</a>
+</p>
+
+> **Currently building:** SyncForge, a real-time collaborative workspace with local-first editing, durable persistence, and AI-assisted knowledge retrieval.
+
 ---
 
 ### 🚀 About Me
