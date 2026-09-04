@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="anshuldeewan's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+there+%F0%9F%90%8B+I'm+Anshul+Deewan;AI-Assisted+Full-Stack+Engineer;Quantitative+Analytics+Specialist;Market+Analyst+Intern+%40+Axxela" alt="Typing SVG" />
 </div>
